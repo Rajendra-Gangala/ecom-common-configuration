@@ -20,4 +20,4 @@ test:
    
 logging:
   file:
-    name : \Users\Rajendra\Desktop\app-logs\ecom-log
+    name : \Users\Rajendra\Desktop\app-logs\ecom-app.log
